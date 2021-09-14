@@ -3,9 +3,9 @@ package org.example;
 import java.util.Date;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 hudson millar
  */
 public class App 
 {
